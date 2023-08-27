@@ -1,20 +1,20 @@
 # ETL_Mini_Group_Project
 
-### Project Summary:
+### Project Summary
 
 In this ETL (Extract, Transform, Load) mini-project, we had a comprehensive focus on cleaning and transforming a dataset loaded from an Excel spreadsheet. The data was unique in that it included one column featuring JSON-like strings with various pieces of information (contact_id, name, and email).
 
-### Problem Statement:
+### Problem Statement
 
 Our main objective was to take contact information from a complicated Excel file and transform it into a clean, straightforward format. We tackled this challenge using two distinct approaches—Pandas and regular expressions—to reach the same outcome. The cleaned-up data was then exported to a CSV file, ready for any subsequent analytics or business intelligence tasks.
 
-### Data Sources:
+### Data Sources
 
 crowdfunding.xlsx
 contacts.xlsx
 Provided by the course in Excel format.
 
-### Tools and Technologies:
+### Tools and Technologies
 
 * Python
 * Pandas
@@ -22,7 +22,7 @@ Provided by the course in Excel format.
 * Jupyter Notebook
 * Excel
 
-### Key steps:
+### Key steps
 
 1. Extract
 
@@ -34,6 +34,6 @@ Provided by the course in Excel format.
 
    After completing the transformation, we exported the cleaned and restructured data into a new CSV file. This step finalized our ETL process, rendering the data readily accessible for future analytics or business intelligence tasks. The CSV format ensures that the data can be easily imported into various data analysis tools.
 
-### Collaborators:
+### Collaborators
 - John Shridik
 - Eric Huynh
