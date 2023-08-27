@@ -1,4 +1,4 @@
-# ETL Mini Project
+# ETL Project
 
 ### Project Summary
 
