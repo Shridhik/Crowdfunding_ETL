@@ -13,7 +13,7 @@ Our main objective was to take contact information from a complicated Excel file
 - crowdfunding.xlsx
 - contacts.xlsx
 
-_ _ Provided by the course in Excel format. _ _
+_Provided by the course in Excel format._
 
 ### Tools and Technologies
 
