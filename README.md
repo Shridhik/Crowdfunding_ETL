@@ -13,8 +13,6 @@ Our main objective was to take contact information from a complicated Excel file
 - crowdfunding.xlsx
 - contacts.xlsx
 
-_Provided by the course_
-
 ### Tools and Technologies
 
 * Python
