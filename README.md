@@ -10,8 +10,9 @@ Our main objective was to take contact information from a complicated Excel file
 
 ### Data Sources
 
-crowdfunding.xlsx
-contacts.xlsx
+- crowdfunding.xlsx
+- contacts.xlsx
+
 Provided by the course in Excel format.
 
 ### Tools and Technologies
