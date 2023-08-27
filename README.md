@@ -1,4 +1,4 @@
-# ETL_Mini_Group_Project
+# ETL Mini Project
 
 ### Project Summary
 
