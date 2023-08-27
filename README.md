@@ -36,5 +36,5 @@ _Provided by the course_
    After completing the transformation, we exported the cleaned and restructured data into a new CSV file. This step finalized our ETL process, rendering the data readily accessible for future analytics or business intelligence tasks. The CSV format ensures that the data can be easily imported into various data analysis tools.
 
 ### Collaborators
-- John Shridik
+- Shridik John
 - Eric Huynh
