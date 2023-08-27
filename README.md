@@ -20,7 +20,7 @@ Tools and Technologies:
 
 Key steps:
 1. Extract
-        - We began the project by importing an Excel file into a Pandas DataFrame. This step was crucial as it served as the foundation for all subsequent transformations. The Excel file contained contact information but was structured in a way that made direct analysis challenging.
+   - We began the project by importing an Excel file into a Pandas DataFrame. This step was crucial as it served as the foundation for all subsequent transformations. The Excel file contained contact information but was structured in a way that made direct analysis challenging.
 1. Transform
         - The transformation step was the core of our project. We used regular expressions to parse JSON-like strings from one of the DataFrame's columns, extracting vital fields like contact_id, name, and email. Following the extraction, we further divided the name into first_name and last_name, reordered the columns, and converted data types for easier analysis.
 1. Load
