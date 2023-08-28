@@ -1,10 +1,10 @@
 # Crowdfunding ETL Project
 
-### Project Summary
+### Summary
 
 In this ETL (Extract, Transform, Load) mini-project, we had a comprehensive focus on cleaning and transforming a dataset loaded from an Excel spreadsheet. The data was unique in that it included one column featuring JSON-like strings with various pieces of information (contact_id, name, and email).
 
-### Problem Statement
+### Objective
 
 Our main objective was to take contact information from a complicated Excel file and transform it into a clean, straightforward format. We tackled this challenge using two distinct approaches—Pandas and regular expressions—to reach the same outcome. The cleaned-up data was then exported to a CSV file, ready for any subsequent analytics or business intelligence tasks.
 
